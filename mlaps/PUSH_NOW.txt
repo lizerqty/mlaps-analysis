@@ -1,0 +1,46 @@
+═══════════════════════════════════════════════════════════════
+ PUSH TO GITHUB - COPY THESE COMMANDS
+═══════════════════════════════════════════════════════════════
+
+STEP 1: Create GitHub Repo
+---------------------------
+Go to: https://github.com/new
+Name: mlaps-microburbs
+Private: YES ✓
+Click: Create repository
+
+
+STEP 2: Run These Commands (Replace YOUR_USERNAME!)
+----------------------------------------------------
+git remote add origin https://github.com/YOUR_USERNAME/mlaps-microburbs.git
+git branch -M main
+git push -u origin main
+
+
+STEP 3: Add Collaborator
+-------------------------
+On GitHub:
+Settings → Collaborators → Add: david@microburbs.com.au
+
+
+STEP 4: Enable GitHub Pages (Public URL)
+-----------------------------------------
+Settings → Pages → Source: main branch → Save
+Public URL: https://YOUR_USERNAME.github.io/mlaps-microburbs/
+
+
+═══════════════════════════════════════════════════════════════
+ URLS FOR QUIZ
+═══════════════════════════════════════════════════════════════
+
+Private Repo:
+https://github.com/YOUR_USERNAME/mlaps-microburbs
+
+Public Dashboard:
+https://YOUR_USERNAME.github.io/mlaps-microburbs/
+
+OR Screenshot:
+Upload dashboard screenshot to imgur.com → Get link
+
+═══════════════════════════════════════════════════════════════
+
